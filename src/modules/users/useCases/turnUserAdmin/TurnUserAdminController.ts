@@ -17,7 +17,7 @@ class TurnUserAdminController {
         user_id,
       });
 
-      return response.status(400).json({ email, name, admin });
+      return response.status(200).json({ email, name, admin });
     } catch (err) {
       return response.status(404).json({ error: err.message });
     }
