@@ -9,13 +9,13 @@
     <img alt="Swagger" title="Documentation Swagger" src="https://github.com/ferferq/2challengeNodeJS/blob/main/layout.png?raw=true" />
 </h1>
 
-### Swagger Documentation: 
+### Utilizando o projeto: 
 
-1. Clone the repo
+1. Clone meu repositório:
    ```sh
-   git clone https://github.com/ferferq/2challengeNodeJS.git
+   git clone https://github.com/ferferq/STORECAR.git
    ```
-2. Install NPM packages
+2. instale os pacotes necessários:
    ```sh
    npm install
    ```
@@ -23,9 +23,11 @@
     ```sh
    yarn
    ```
-3. start the server:
+3. inicie o programa
   ```sh
    yarn dev
+   ```
+4. Para visualizar a documentação entre nesta rota: http://localhost:3333/api-docs/
    ```
    
 ## 🧪 Tecnologias
